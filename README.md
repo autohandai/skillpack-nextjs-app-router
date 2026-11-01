@@ -39,6 +39,4 @@ Written against Next.js 16.4, React 19, Zod 4, Vitest and Playwright as of Octob
 
 Runs in Autohand Code (free CLI, any model): https://autohand.ai/cli/?utm_source=skillpack-nextjs-app-router&utm_medium=github
 
-Until 31 October 2026: first month of Pro for $10 with code FOUNDING10 (first-time customers).
-
 MIT licensed. See LICENSE.
